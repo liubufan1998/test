@@ -9,5 +9,7 @@ int main() {
     int result = a & b & c;
     cout << "The result is: " << result << endl;
 
+    cout << "Congratulations! This is your first successful Git attempt!" << endl;
+
     return 0;
 }
